@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "The Streaming Extension",
+    "version": "1.0.0",
+    "description": "The extension that takes you to all the streaming services you can think of.",
+    "icons": {
+        "128": "logo.png"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    }
+}
